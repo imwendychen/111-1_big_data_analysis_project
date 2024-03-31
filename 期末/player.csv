@@ -1,0 +1,681 @@
+"player","position","team","age","goals_assists_per90","cards_red","cards_yellow","sca","passes_completed","average_shot_distance"
+"Aaron Mooy","MF","Australia",32,0,0,1,5,170,29.1
+"Aaron Ramsey","MF","Wales",31,0,0,1,3,88,18
+"Abdelhamid Sabiri","MF","Morocco",26,0.5,0,1,4,45,34.2
+"Abdelkarim Hassan","DF","Qatar",29,0,0,0,4,122,23.6
+"Abderrazak Hamdallah","FW","Morocco",32,0,0,0,0,8,7.8
+"Abdessamad Ezzalzouli","FW","Morocco",21,0,0,0,4,10,13.7
+"Abdou Diallo","DF","Senegal",26,0,0,0,2,139,15.4
+"Abdul Fatawu Issahaku","FW","Ghana",18,0,0,0,0,1,NA
+"Abdulaziz Hatem","MF","Qatar",32,0,0,0,2,72,27.4
+"Abdulelah Al-Amri","DF","Saudi Arabia",25,0,0,2,0,74,10.5
+"Abdulellah Al-Malki","MF","Saudi Arabia",28,0,0,2,2,66,21.1
+"Abdullah Madu","DF","Saudi Arabia",29,0,0,1,0,5,NA
+"Abdulrahman Al-Aboud","MF","Saudi Arabia",27,0,0,0,1,8,4.6
+"Abolfazl Jalali","DF","IR Iran",24,0,0,1,1,20,NA
+"Achraf Dari","DF","Morocco",23,0.48,0,1,0,99,4.1
+"Achraf Hakimi","DF","Morocco",24,0.14,0,0,14,312,26.5
+"Adrien Rabiot","MF","France",27,0.37,0,1,11,237,13.3
+"Agustín Canobbio","MF","Uruguay",24,0,0,0,0,5,NA
+"Ahmad Nourollahi","MF","IR Iran",29,0,0,0,0,35,29.2
+"Ahmed Alaaeldin","FW","Qatar",29,0,0,0,0,0,NA
+"Aimen Dahmen","GK","Tunisia",25,0,0,0,0,48,NA
+"Ajdin Hrustic","MF","Australia",26,0,0,0,0,17,22.4
+"Akram Afif","FW","Qatar",26,0,0,1,7,139,29.8
+"Alan Franco","MF","Ecuador",24,0,0,0,0,10,NA
+"Alejandro Balde","DF","Spain",19,0,0,0,2,112,11.3
+"Aleksandar Mitrovi?","FW","Serbia",28,0.69,0,1,3,54,14.1
+"Alex Sandro","DF","Brazil",31,0,0,0,6,150,33.5
+"Alex Telles","DF","Brazil",30,0,0,0,1,33,NA
+"Alexander Bah","DF","Denmark",25,0,0,0,4,37,19.3
+"Alexander Djiku","DF","Ghana",28,0,0,0,1,22,NA
+"Alexis Mac Allister","MF","Argentina",23,0.33,0,0,16,234,19.3
+"Alexis Vega","FW","Mexico",25,0,0,0,4,40,21
+"Ali Abdi","DF","Tunisia",28,0,0,1,3,72,NA
+"Ali Al Hassan","MF","Saudi Arabia",25,0,0,1,0,4,10.4
+"Ali Al-Bulaihi","DF","Saudi Arabia",33,0,0,1,0,78,NA
+"Ali Assadalla","MF","Qatar",29,0,0,0,1,21,NA
+"Ali Gholizadeh","MF","IR Iran",26,0.45,0,0,7,46,26.2
+"Ali Karimi","MF","IR Iran",28,0,0,0,1,34,NA
+"Ali Maâloul","DF","Tunisia",32,0,0,0,2,39,NA
+"Alidu Seidu","DF","Ghana",22,0,0,2,2,59,31.9
+"Alireza Beiranvand","GK","IR Iran",30,0,0,0,0,20,NA
+"Alireza Jahanbakhsh","MF","IR Iran",29,0,0,2,4,11,22.9
+"Alisson","GK","Brazil",30,0,0,0,0,80,NA
+"Alistair Johnston","DF","Canada",24,0,0,1,8,147,8.5
+"Almoez Ali","FW","Qatar",26,0,0,1,0,33,16.4
+"Alphonso Davies","MF","Canada",22,0.33,0,1,8,82,21
+"Amadou Onana","MF","Belgium",21,0,0,2,0,58,8.3
+"Anass Zaroury","FW","Morocco",22,0,0,0,0,8,NA
+"Andre-Frank Zambo Anguissa","MF","Cameroon",27,0.35,0,0,0,113,11.2
+"Andreas Christensen","DF","Denmark",26,0.33,0,1,2,237,5.9
+"Andreas Cornelius","FW","Denmark",29,0,0,1,5,21,10.2
+"Andreas Skov Olsen","FW","Denmark",22,0,0,0,3,43,14.6
+"Andrej Kramari?","FW","Croatia",31,0.38,0,0,10,153,15.1
+"Andries Noppert","GK","Netherlands",28,0,0,0,1,157,NA
+"Andrija Živkovi?","DF","Serbia",26,0.86,0,0,7,71,24.4
+"André Ayew","MF","Ghana",33,0.45,0,1,0,30,17.3
+"André Onana","GK","Cameroon",26,0,0,0,0,45,NA
+"André Silva","FW","Portugal",27,0,0,0,3,9,NA
+"Andrés Guardado","MF","Mexico",36,0,0,0,0,11,NA
+"Anis Ben Slimane","MF","Tunisia",21,0,0,0,7,29,9.6
+"Ansu Fati","FW","Spain",20,0,0,0,0,25,NA
+"Ante Budimir","FW","Croatia",31,0,0,0,1,2,10.8
+"Anthony Contreras","FW","Costa Rica",22,0,0,1,1,15,NA
+"Antoine Griezmann","MF","France",31,0.5,0,1,33,258,17.6
+"Antoine Semenyo","FW","Ghana",22,0,0,0,0,1,13.5
+"Antonee Robinson","DF","United States",25,0,0,0,8,173,NA
+"Antonio Rüdiger","DF","Germany",29,0,0,0,4,229,17.4
+"Antony","FW","Brazil",22,0,0,0,7,86,22.2
+"António Silva","DF","Portugal",19,0,0,0,1,60,NA
+"Ao Tanaka","MF","Japan",24,0.53,0,0,2,48,1.5
+"Ardon Jasari","FW","Switzerland",20,0,0,0,0,5,NA
+"Arkadiusz Milik","FW","Poland",28,0,0,1,2,19,9
+"Artur J?drzejczyk","DF","Poland",35,0,0,0,0,3,NA
+"Asiri Haitham","FW","Saudi Arabia",21,0,0,0,0,1,NA
+"Assim Madibo","MF","Qatar",26,0,0,1,2,58,NA
+"Atiba Hutchinson","MF","Canada",39,0,0,0,2,100,16.8
+"Aurélien Tchouaméni","MF","France",22,0.14,0,1,13,426,23.7
+"Awer Mabil","MF","Australia",27,0,0,0,0,10,NA
+"Axel Disasi","DF","France",24,0,0,0,0,61,9.6
+"Axel Witsel","MF","Belgium",33,0,0,0,2,169,32.2
+"Ayase Ueda","FW","Japan",24,0,0,0,1,7,NA
+"Aymeric Laporte","DF","Spain",28,0,0,1,3,413,13.6
+"Aziz Behich","DF","Australia",32,0,0,1,6,152,16.4
+"Azzedine Ounahi","MF","Morocco",22,0,0,1,16,216,23.7
+"Aïssa Laïdouni","MF","Tunisia",26,0.37,0,1,4,99,9.8
+"Baba Rahman","DF","Ghana",28,0,0,0,5,66,NA
+"Badr Banoun","DF","Morocco",29,0,0,0,0,21,NA
+"Bailey Wright","DF","Australia",30,0,0,0,0,1,NA
+"Bamba Dieng","FW","Senegal",22,0.9,0,0,4,9,16.3
+"Bartosz Bereszy?ski","DF","Poland",30,0,0,1,1,122,NA
+"Bassam Al-Rawi","DF","Qatar",25,0,0,0,1,47,NA
+"Ben Davies","DF","Wales",29,0,0,0,4,122,12.1
+"Benjamin Pavard","DF","France",26,0,0,0,1,82,NA
+"Bernardo Silva","MF","Portugal",28,0,0,0,13,256,10.7
+"Bilal El Khannous","MF","Morocco",18,0,0,0,1,20,NA
+"Borna Bariši?","DF","Croatia",30,0,0,1,2,50,24.8
+"Borna Sosa","DF","Croatia",24,0,0,0,3,220,28.4
+"Boualem Khoukhi","DF","Qatar",32,0,0,0,1,169,NA
+"Boulaye Dia","FW","Senegal",26,0.28,0,1,5,39,14.2
+"Brandon Aguilera","MF","Costa Rica",19,0,0,0,0,27,NA
+"Breel Embolo","FW","Switzerland",25,0.56,0,0,6,46,10.5
+"Brenden Aaronson","MF","United States",22,0,0,0,3,41,4.9
+"Brennan Johnson","FW","Wales",21,0,0,0,1,10,14.6
+"Bruno Fernandes","FW","Portugal",28,1.26,0,1,15,188,24.5
+"Bruno Guimarães","MF","Brazil",25,0,0,1,1,43,12.4
+"Bruno Petkovi?","FW","Croatia",28,0.38,0,1,7,40,16.2
+"Bryan Mbeumo","FW","Cameroon",23,0,0,0,8,49,11.3
+"Bryan Oviedo","DF","Costa Rica",32,0,0,0,0,67,NA
+"Bryan Ruiz","MF","Costa Rica",37,0,0,0,0,8,NA
+"Bukayo Saka","FW","England",21,0.94,0,0,9,84,14.9
+"Callum Wilson","FW","England",30,1.87,0,0,4,9,NA
+"Cameron Carter-Vickers","DF","United States",24,0,0,0,2,50,NA
+"Carlos Gruezo","MF","Ecuador",27,0,0,0,0,15,NA
+"Carlos Martínez","DF","Costa Rica",23,0,0,0,0,10,NA
+"Carlos Soler","MF","Spain",25,0.98,0,0,4,78,17.3
+"Casemiro","MF","Brazil",30,0.23,0,1,9,208,26
+"Celso Borges","MF","Costa Rica",34,0,0,1,1,98,NA
+"Charles De Ketelaere","FW","Belgium",21,0,0,0,0,3,NA
+"Charly Rodríguez","MF","Mexico",25,0,0,0,0,21,NA
+"Cheikhou Kouyaté","MF","Senegal",32,0,0,0,2,19,NA
+"Cho Guesung","FW","Korea Republic",24,0.65,0,1,4,40,11.4
+"Cho Yumin","FW","Korea Republic",26,0,0,0,0,0,NA
+"Chris Mepham","DF","Wales",25,0,0,1,3,141,NA
+"Christian Bassogog","MF","Cameroon",27,0,0,1,0,5,NA
+"Christian Eriksen","MF","Denmark",30,0,0,0,10,188,27.2
+"Christian Fassnacht","FW","Switzerland",29,0,0,0,0,7,14.8
+"Christian Nørgaard","MF","Denmark",28,0,0,0,1,14,NA
+"Christian Pulisic","FW","United States",24,0.86,0,0,14,83,17.9
+"Christopher Wooh","DF","Cameroon",21,0,0,0,0,25,15.1
+"Cody Gakpo","FW","Netherlands",23,0.6,0,0,17,93,19.9
+"Collins Fai","DF","Cameroon",30,0,0,2,4,99,27.9
+"Connor Roberts","DF","Wales",27,0,0,0,6,92,NA
+"Craig Goodwin","MF","Australia",31,0.77,0,0,5,58,16.1
+"Cristian Romero","DF","Argentina",24,0,0,2,3,337,NA
+"Cristiano Ronaldo","FW","Portugal",37,0.31,0,0,10,68,21
+"Cyle Larin","FW","Canada",27,0,0,0,5,21,11.3
+"César Azpilicueta","DF","Spain",33,0.67,0,0,4,171,NA
+"César Montes","DF","Mexico",25,0.33,0,0,3,159,13
+"Daichi Kamada","FW","Japan",26,0,0,0,7,83,17.5
+"Daizen Maeda","FW","Japan",25,0.5,0,0,1,8,9.5
+"Daley Blind","DF","Netherlands",32,0.43,0,0,4,252,12.3
+"Damian Szyma?ski","MF","Poland",27,0,0,0,0,8,NA
+"Dani Alves","DF","Brazil",39,0,0,0,4,83,21.9
+"Dani Carvajal","DF","Spain",30,0,0,0,1,121,NA
+"Dani Olmo","FW","Spain",24,0.49,0,0,12,162,21.4
+"Daniel Amartey","DF","Ghana",27,0,0,2,3,128,5.7
+"Daniel Chacón","MF","Costa Rica",21,0,0,0,0,1,NA
+"Daniel James","FW","Wales",25,0,0,1,2,24,NA
+"Daniel Kyereh","MF","Ghana",26,0,0,0,1,18,NA
+"Danilo","DF","Brazil",31,0,0,1,8,230,27.7
+"Danilo Pereira","DF","Portugal",31,0,0,1,1,68,NA
+"Danny Ward","GK","Wales",29,0,0,0,0,24,NA
+"Darko Lazovi?","DF","Serbia",32,0,0,0,0,7,27.3
+"Darwin Núñez","FW","Uruguay",23,0,0,1,8,35,22.4
+"David Raum","DF","Germany",24,0.37,0,0,14,153,NA
+"David Wotherspoon","MF","Canada",32,0,0,0,0,4,NA
+"Davy Klaassen","MF","Netherlands",29,1.42,0,0,7,59,9.9
+"Dayot Upamecano","DF","France",24,0,0,0,13,314,9.7
+"DeAndre Yedlin","DF","United States",29,0,0,0,2,19,NA
+"Declan Rice","MF","England",23,0,0,0,6,300,NA
+"Dejan Lovren","DF","Croatia",33,0.15,0,1,2,405,14.8
+"Denis Odoi","DF","Ghana",34,0,0,0,0,2,NA
+"Denis Zakaria","MF","Switzerland",26,0,0,0,1,20,25.4
+"Denzel Dumfries","DF","Netherlands",26,0.56,1,2,5,149,8.7
+"Devis Epassy","GK","Cameroon",29,0,0,0,0,57,NA
+"Diego Godín","DF","Uruguay",36,0,0,0,0,87,10.6
+"Diogo Costa","GK","Portugal",23,0,0,0,1,113,NA
+"Diogo Dalot","DF","Portugal",23,0.7,0,0,9,112,29.8
+"Djibril Sow","MF","Switzerland",25,0.34,0,0,5,84,15.6
+"Djorkaeff Reasco","FW","Ecuador",23,0,0,0,0,2,NA
+"Dominik Livakovi?","GK","Croatia",27,0,0,1,0,194,NA
+"Dries Mertens","MF","Belgium",35,0,0,0,5,22,14.7
+"Dušan Tadi?","MF","Serbia",34,0.7,0,0,14,90,13.3
+"Dušan Vlahovi?","FW","Serbia",22,1.14,0,0,0,6,10.9
+"Dylan Bronn","DF","Tunisia",27,0,0,0,2,75,17.8
+"Eden Hazard","MF","Belgium",31,0,0,0,5,46,18.7
+"Ederson","GK","Brazil",29,0,0,0,1,28,NA
+"Edimilson Fernandes","FW","Switzerland",26,0,0,0,3,65,24.2
+"Edinson Cavani","FW","Uruguay",35,0,0,1,5,27,13.8
+"Edouard Mendy","GK","Senegal",30,0,0,0,1,88,NA
+"Edson ?lvarez","MF","Mexico",25,0,0,1,4,86,33.1
+"Eduardo Camavinga","DF","France",20,0,0,0,2,88,NA
+"Ehsan Hajsafi","MF","IR Iran",32,0,0,0,3,61,14.4
+"Ellyes Skhiri","MF","Tunisia",27,0,0,0,5,109,22.5
+"Emiliano Martínez","GK","Argentina",30,0,0,1,0,120,NA
+"Enner Valencia","FW","Ecuador",33,1.06,0,0,7,40,18.9
+"Enzo Ebosse","DF","Cameroon",23,0,0,0,0,34,NA
+"Enzo Fernández","MF","Argentina",21,0.32,0,1,17,412,24.9
+"Eray Cömert","DF","Switzerland",24,0,0,1,1,38,NA
+"Eric Dier","DF","England",28,0,0,0,0,40,NA
+"Eric Maxim Choupo-Moting","FW","Cameroon",33,0.36,0,0,5,44,9.1
+"Erick Gutiérrez","MF","Mexico",27,0,0,1,1,24,NA
+"Ethan Ampadu","MF","Wales",22,0,0,0,4,108,32.4
+"Everton Ribeiro","MF","Brazil",33,0,0,0,2,15,NA
+"Exequiel Palacios","MF","Argentina",24,0,0,0,3,25,16.3
+"Fabian Frei","MF","Switzerland",33,0,0,0,0,9,NA
+"Fabian Rieder","FW","Switzerland",20,0,0,1,1,13,NA
+"Fabian Schär","DF","Switzerland",30,0,0,2,6,65,16.7
+"Fabinho","MF","Brazil",20,0,0,0,4,51,NA
+"Facundo Pellistri","MF","Uruguay",20,0,0,0,3,32,11.5
+"Famara Diedhiou","FW","Senegal",30,0.98,0,0,3,10,9.1
+"Federico Valverde","MF","Uruguay",24,0,0,0,14,159,33
+"Ferjani Sassi","MF","Tunisia",30,0,0,1,3,25,33.3
+"Ferrán Torres","FW","Spain",22,0.83,0,0,2,59,17.1
+"Filip Kosti?","DF","Serbia",30,0,0,0,5,72,18.3
+"Filip Mladenovi?","DF","Serbia",31,0,0,0,0,20,10.7
+"Filip ?uri?i?","MF","Serbia",30,0,0,0,2,5,NA
+"Firas Al-Buraikan","MF","Saudi Arabia",22,0.34,0,0,2,42,15.4
+"Fodé Ballo-Touré","DF","Senegal",25,0,0,0,0,5,NA
+"Fran Kara?i?","DF","Australia",26,0,0,0,2,33,26.1
+"Francisco Calvo","DF","Costa Rica",30,0,0,2,1,86,28.8
+"Fred","MF","Brazil",29,0,0,1,5,71,18.3
+"Frenkie de Jong","MF","Netherlands",25,0.38,0,1,9,323,14.2
+"Félix Torres Caicedo","DF","Ecuador",25,0.33,0,0,2,168,8.5
+"Gabriel Jesus","FW","Brazil",25,0,0,0,6,22,8.8
+"Garang Kuol","FW","Australia",18,0,0,0,0,3,9.6
+"Gareth Bale","FW","Wales",33,0.4,0,1,4,33,46.6
+"Gavi","MF","Spain",18,0.32,0,0,5,133,17.6
+"Gaël Ondoua","MF","Cameroon",27,0,0,0,0,17,NA
+"Georges-Kévin N'Koudou","FW","Cameroon",27,0,0,0,1,9,26.6
+"Germán Pezzella","DF","Argentina",31,0,0,1,0,42,10
+"Gerson Torres","MF","Costa Rica",25,0,0,0,2,16,30.8
+"Ghaylène Chaalali","MF","Tunisia",28,0,0,0,0,3,NA
+"Gideon Mensah","DF","Ghana",24,1.03,0,0,3,36,NA
+"Gio Reyna","FW","United States",20,0,0,0,2,26,20.9
+"Giorgian De Arrascaeta","MF","Uruguay",28,1.67,0,0,4,32,9.6
+"Gleison Bremer","DF","Brazil",25,0,0,0,1,78,5.5
+"Gonzalo Montiel","DF","Argentina",25,0,0,3,3,69,27.3
+"Gonzalo Plata","MF","Ecuador",22,0,0,0,3,77,15.2
+"Gonçalo Ramos","FW","Portugal",21,2.37,0,0,2,25,11.3
+"Granit Xhaka","MF","Switzerland",30,0,0,1,6,215,21.6
+"Gregor Kobel","GK","Switzerland",25,0,0,0,0,21,NA
+"Grzegorz Krychowiak","MF","Poland",32,0,0,1,5,93,29.9
+"Guido Rodríguez","MF","Argentina",28,0,0,0,0,54,NA
+"Guillermo Ochoa","GK","Mexico",37,0,0,0,3,93,NA
+"Guillermo Varela","DF","Uruguay",29,0,0,0,2,62,NA
+"Haji Wright","FW","United States",24,0.66,0,0,3,20,13.6
+"Hakim Ziyech","FW","Morocco",29,0.28,0,0,20,211,27.2
+"Hannibal Mejbri","MF","Tunisia",19,0,0,0,0,2,NA
+"Haris Seferovi?","FW","Switzerland",30,0,0,0,1,10,12.8
+"Harry Kane","FW","England",29,1.12,0,0,10,62,20.4
+"Harry Maguire","DF","England",29,0.21,0,1,6,354,10
+"Harry Souttar","DF","Australia",24,0,0,0,2,138,8.5
+"Harry Wilson","MF","Wales",25,0,0,0,4,48,20.9
+"Hassan Al Tambakti","DF","Saudi Arabia",23,0,0,1,0,40,NA
+"Hassan Al-Haydos","MF","Qatar",32,0,0,0,6,65,29.2
+"Hattan Bahebri","MF","Saudi Arabia",30,22.5,0,1,1,4,NA
+"Henry Martín","FW","Mexico",30,0.62,0,0,6,13,9.9
+"Hernán Galíndez","GK","Ecuador",35,0,0,0,0,44,NA
+"Hidemasa Morita","MF","Japan",27,0,0,0,9,129,22.9
+"Hiroki Ito","DF","Japan",23,0,0,0,1,58,NA
+"Hiroki Sakai","MF","Japan",32,0,0,0,2,28,5.4
+"Hirving Lozano","FW","Mexico",27,0,0,0,20,42,26
+"Homam Ahmed","DF","Qatar",23,0,0,1,3,77,NA
+"Hong Chul","DF","Korea Republic",32,0,0,0,1,17,NA
+"Hossein Hosseini","GK","IR Iran",30,0,0,0,0,23,NA
+"Hossein Kanaanizadegan","DF","IR Iran",28,0,0,1,0,8,NA
+"Hugo Lloris","GK","France",35,0,0,0,1,110,NA
+"Hwang Hee-chan","MF","Korea Republic",26,0.78,0,1,3,45,17.5
+"Hwang In-beom","MF","Korea Republic",26,0,0,0,6,194,27.1
+"Hwang Ui-jo","FW","Korea Republic",30,0,0,0,0,9,10.5
+"Héctor Herrera","MF","Mexico",32,0,0,1,3,64,NA
+"Héctor Moreno","DF","Mexico",34,0,0,1,1,165,5.8
+"Ibrahima Konaté","DF","France",23,0,0,0,4,216,7.7
+"Idrissa Gana Gueye","MF","Senegal",33,0,0,2,7,107,19.6
+"Ilias Chair","MF","Morocco",25,0,0,0,1,13,NA
+"Iliman Ndiaye","FW","Senegal",22,0.67,0,0,4,25,18.6
+"Ismail Jakobs","DF","Senegal",23,0.32,0,1,6,107,31
+"Ismail Mohamad","FW","Qatar",32,0.52,0,1,NA,NA,NA
+"Ismaila Sarr","FW","Senegal",24,0.26,0,0,15,52,16.5
+"Ismaël Koné","MF","Canada",20,0,0,0,2,96,NA
+"Issam Jebali","FW","Tunisia",30,0,0,0,5,25,10.4
+"Ivan Ili?","MF","Serbia",21,0,0,0,2,19,NA
+"Ivan Periši?","FW","Croatia",33,0.54,0,0,17,202,20
+"Iñaki Williams","FW","Ghana",28,0,0,0,2,29,20.1
+"Jack Grealish","FW","England",27,1.05,0,0,5,48,8.8
+"Jackson Irvine","MF","Australia",29,0,0,2,3,103,9.3
+"Jackson Porozo","DF","Ecuador",22,0,0,0,0,39,15
+"Jakub Kami?ski","MF","Poland",20,0,0,0,3,37,10.1
+"Jakub Kiwior","DF","Poland",22,0,0,1,1,174,10.5
+"Jamal Musiala","MF","Germany",19,0.35,0,0,22,85,14.5
+"Jamie Maclaren","FW","Australia",29,0,0,0,1,7,NA
+"Jan Bednarek","DF","Poland",26,0,0,0,0,6,NA
+"Jan Vertonghen","DF","Belgium",35,0,0,0,1,238,10.4
+"Jason Cummings","FW","Australia",27,0,0,0,0,4,NA
+"Jawad El Yamiq","DF","Morocco",30,0,0,0,1,146,12.4
+"Jean-Charles Castelletto","DF","Cameroon",27,1,0,0,1,66,1.1
+"Jeong Woo-yeong","MF","Korea Republic",23,0,0,0,1,12,24.4
+"Jeremy Doku","MF","Belgium",20,0,0,0,3,8,NA
+"Jeremy Sarmiento","MF","Ecuador",20,0,0,0,3,23,14.5
+"Jerome Ngom Mbekeli","MF","Cameroon",24,0,0,0,1,1,NA
+"Jesper Lindstrøm","MF","Denmark",22,0,0,0,2,36,16.2
+"Jesús Ferreira","FW","United States",21,0,0,0,1,16,NA
+"Jesús Gallardo","DF","Mexico",28,0,0,0,7,93,15.1
+"Jewison Bennette","MF","Costa Rica",18,0,0,0,0,11,28.6
+"Jhegson Méndez","MF","Ecuador",25,0,0,2,3,128,NA
+"Joachim Andersen","DF","Denmark",26,0.33,0,0,5,198,18.1
+"Joakim Mæhle","DF","Denmark",25,0,0,0,4,119,28.9
+"Joe Allen","MF","Wales",32,0,0,0,1,30,24.3
+"Joe Morrell","MF","Wales",25,0,0,0,0,12,NA
+"Joe Rodon","DF","Wales",25,0,0,1,2,152,NA
+"Joel Campbell","FW","Costa Rica",30,0,0,1,3,104,21.1
+"Johan Venegas","FW","Costa Rica",34,0,0,0,1,11,NA
+"John Stones","DF","England",28,0,0,0,3,435,9.6
+"Jonas Hofmann","FW","Germany",30,0,0,0,4,16,11.5
+"Jonathan David","FW","Canada",22,0,0,0,1,41,14.1
+"Jonathan Osorio","MF","Canada",30,0,0,1,5,52,23.7
+"Jordan Ayew","FW","Ghana",31,0.66,0,0,7,35,21.2
+"Jordan Henderson","MF","England",32,0.33,0,0,8,137,18.5
+"Jordan Morris","FW","United States",28,0,0,0,0,1,NA
+"Jordan Pickford","GK","England",28,0,0,0,2,126,NA
+"Jordan Veretout","MF","France",29,0,0,0,0,33,NA
+"Jordi Alba","DF","Spain",33,0.68,0,0,11,328,26.6
+"Jorge Eduardo Sánchez","DF","Mexico",25,0,0,1,5,69,18.3
+"Josh Sargent","FW","United States",22,0,0,0,2,29,14
+"Joshua Kimmich","MF","Germany",27,0,0,1,20,226,25.9
+"Josip Juranovi?","DF","Croatia",27,0.15,0,0,15,318,18.1
+"Josip Staniši?","DF","Croatia",22,0,0,0,0,36,28.6
+"Josip ?utalo","DF","Croatia",22,0,0,0,0,62,NA
+"José Cifuentes","MF","Ecuador",23,0,0,0,0,33,29.4
+"José María Giménez","DF","Uruguay",27,0,0,1,1,141,13.2
+"João Cancelo","DF","Portugal",28,0,0,0,2,221,15.4
+"João Félix","FW","Portugal",23,0.82,0,1,7,91,18.6
+"João Mário","FW","Portugal",29,0,0,0,2,37,NA
+"João Palhinha","MF","Portugal",27,0,0,0,3,26,33.2
+"Joško Gvardiol","DF","Croatia",20,0.13,0,0,4,464,16.8
+"Juan Foyth","DF","Argentina",24,0,0,0,0,3,NA
+"Juan Pablo Vargas","DF","Costa Rica",27,1,0,0,2,19,3.9
+"Jude Bellingham","MF","England",19,0.43,0,0,17,235,12.4
+"Jules Koundé","DF","France",24,0,0,1,5,252,19.9
+"Julián ?lvarez","FW","Argentina",22,0.78,0,0,10,93,12.2
+"Jung Woo-young","MF","Korea Republic",33,0,0,2,7,178,25.1
+"Junior Hoilett","FW","Canada",32,0,0,1,7,43,24.3
+"Junya Ito","MF","Japan",29,0.28,0,0,10,59,11.1
+"Jurriën Timber","DF","Netherlands",21,0,0,1,1,283,NA
+"Kai Havertz","FW","Germany",23,1.76,0,0,7,27,13.1
+"Kalidou Koulibaly","DF","Senegal",31,0.25,0,1,4,156,7.9
+"Kalvin Phillips","MF","England",27,2.14,0,0,1,17,NA
+"Kamal Miller","DF","Canada",25,0,0,1,0,186,NA
+"Kamaldeen Sulemana","FW","Ghana",20,0,0,1,0,10,21.8
+"Kamil Glik","DF","Poland",34,0,0,0,0,118,11.6
+"Kamil Grosicki","MF","Poland",34,0,0,0,2,4,NA
+"Kaoru Mitoma","MF","Japan",25,0.55,0,0,9,50,21.5
+"Karim Ansarifard","FW","IR Iran",32,0,0,0,3,4,21.9
+"Karim Boudiaf","MF","Qatar",32,0,0,1,3,94,NA
+"Karl Toko Ekambi","FW","Cameroon",30,0,0,0,6,43,15.6
+"Karol ?widerski","FW","Poland",25,0,0,0,0,7,NA
+"Kasper Dolberg","FW","Denmark",25,0,0,0,2,15,8.6
+"Kasper Schmeichel","GK","Denmark",36,0,0,0,0,72,NA
+"Keanu Baccus","MF","Australia",24,0,0,0,0,26,23.9
+"Kellyn Acosta","MF","United States",27,0,0,1,1,10,NA
+"Kendall Waston","DF","Costa Rica",34,0,0,0,1,57,10.5
+"Kenneth Taylor","MF","Netherlands",20,0,0,0,0,8,NA
+"Kevin De Bruyne","FW","Belgium",31,0,0,0,11,93,23.3
+"Kevin Rodríguez","FW","Ecuador",22,0,0,0,NA,NA,NA
+"Kevin ?lvarez","DF","Mexico",23,0,0,0,1,19,NA
+"Keylor Navas","GK","Costa Rica",36,0,0,0,0,61,NA
+"Keysher Fuller","DF","Costa Rica",28,0.36,0,0,3,44,15.5
+"Kieffer Moore","FW","Wales",30,0,0,0,6,36,16.2
+"Kieran Trippier","DF","England",32,0,0,0,5,165,27.2
+"Kim Jin-su","DF","Korea Republic",30,0.29,0,0,7,105,11.2
+"Kim Min-jae","DF","Korea Republic",26,0,0,0,1,167,8.2
+"Kim Moonhwan","DF","Korea Republic",27,0,0,0,7,201,NA
+"Kim Seung-gyu","GK","Korea Republic",32,0,0,0,1,93,NA
+"Kim Young-gwon","DF","Korea Republic",32,0.26,0,1,5,178,10.9
+"Kingsley Coman","FW","France",26,0,0,0,4,56,10.7
+"Ko Itakura","DF","Japan",25,0.33,0,2,2,98,14.6
+"Koke","MF","Spain",30,0,0,0,1,56,NA
+"Kristijan Jaki?","FW","Croatia",25,0,0,0,0,0,NA
+"Krystian Bielik","MF","Poland",24,0,0,0,1,86,15.8
+"Krzysztof Pi?tek","FW","Poland",27,0,0,0,0,2,15.6
+"Krépin Diatta","FW","Senegal",23,0,0,0,4,60,16.5
+"Kudus Mohammed","FW","Ghana",22,0.73,0,1,5,62,21.8
+"Kwon Chang-hoon","FW","Korea Republic",28,0,0,0,2,19,NA
+"Kwon Kyung-won","DF","Korea Republic",30,0,0,0,0,39,33.8
+"Kye Rowles","DF","Australia",24,0,0,0,1,165,NA
+"Kyle Walker","DF","England",32,0,0,0,3,162,NA
+"Kylian Mbappé","FW","France",23,1.51,0,0,46,173,17.1
+"Lautaro Martínez","FW","Argentina",25,0,0,0,7,46,12.6
+"Lawrence Ati-Zigi","GK","Ghana",26,0,0,0,0,54,NA
+"Leander Dendoncker","DF","Belgium",27,0,0,1,3,119,9.6
+"Leandro Paredes","MF","Argentina",28,0,0,2,7,230,30.6
+"Leandro Trossard","FW","Belgium",28,0,0,0,3,43,NA
+"Lee Jae-sung","MF","Korea Republic",30,0,0,0,4,84,26.8
+"Lee Kangin","MF","Korea Republic",21,0.61,0,1,13,62,25.9
+"Leon Goretzka","MF","Germany",27,0,0,1,1,42,16.7
+"Leroy Sané","FW","Germany",26,0.81,0,0,7,47,25.4
+"Liam Millar","DF","Canada",23,0,0,0,0,4,NA
+"Lionel Messi","FW","Argentina",35,1.3,0,1,43,301,21
+"Lisandro Martínez","DF","Argentina",24,0,0,1,2,133,10.1
+"Lovro Majer","MF","Croatia",24,0.69,0,0,5,78,23.2
+"Loïs Openda","FW","Belgium",22,0,0,0,2,3,NA
+"Lucas Cavallini","FW","Canada",29,0,0,0,0,2,NA
+"Lucas Hernández","DF","France",26,0,0,0,0,5,NA
+"Lucas Paquetá","MF","Brazil",25,0.57,0,0,9,169,11.7
+"Luis Chávez","MF","Mexico",26,0.33,0,0,14,99,31.4
+"Luis Suárez","FW","Uruguay",35,0.62,0,1,3,25,7.5
+"Luka Jovi?","FW","Serbia",24,0,0,1,1,6,17.6
+"Luka Modri?","MF","Croatia",37,0,0,1,21,465,21.1
+"Lukas Klostermann","DF","Germany",26,0,0,0,1,51,NA
+"Luke Shaw","DF","England",27,0.21,0,0,13,335,23.1
+"Luuk de Jong","FW","Netherlands",32,0,0,0,1,8,13
+"Majid Hosseini","DF","IR Iran",26,0,0,1,1,86,NA
+"Manuel Akanji","DF","Switzerland",27,0.25,0,1,2,229,12.3
+"Manuel Neuer","GK","Germany",36,0,0,0,0,115,NA
+"Marcelo Brozovi?","MF","Croatia",30,0,0,1,10,466,17.4
+"Marco Asensio","FW","Spain",26,0.39,0,0,2,89,20.1
+"Marcos Acuña","DF","Argentina",31,0,0,3,7,167,17.9
+"Marcos Llorente","DF","Spain",27,0,0,0,3,95,22.4
+"Marcus Rashford","FW","England",25,1.93,0,0,3,49,16.6
+"Marcus Thuram","FW","France",25,1.19,0,1,4,27,5.4
+"Mario Götze","MF","Germany",30,0,0,0,4,21,14.3
+"Mario Pašali?","FW","Croatia",27,0,0,0,4,76,7.8
+"Mark-Anthony Kaye","MF","Canada",28,0,0,0,0,51,25.5
+"Marko Gruji?","MF","Serbia",26,0,0,0,1,14,29.6
+"Marko Livaja","FW","Croatia",29,0.75,0,0,3,35,15.1
+"Marquinhos","DF","Brazil",28,0,0,1,9,352,10.4
+"Marten de Roon","MF","Netherlands",31,0,0,0,1,97,NA
+"Martin Braithwaite","FW","Denmark",31,0,0,0,3,14,11.5
+"Martin Hongla","MF","Cameroon",24,0,0,0,5,49,13
+"Martinelli","FW","Brazil",21,0,0,0,8,34,13.2
+"Martín Cáceres","DF","Uruguay",35,0,0,1,1,68,NA
+"Mason Mount","MF","England",23,0,0,0,2,61,23
+"Mateo Kova?i?","MF","Croatia",28,0,0,2,17,415,17
+"Matheus Nunes","MF","Portugal",24,0,0,0,1,28,30.8
+"Mathew Leckie","MF","Australia",31,0.54,0,0,6,67,13.6
+"Mathew Ryan","GK","Australia",30,0,0,0,1,113,NA
+"Mathias Jensen","MF","Denmark",26,0,0,1,5,52,17.9
+"Mathías Olivera","DF","Uruguay",25,0,0,1,9,104,16.9
+"Matt Turner","GK","United States",28,0,0,0,0,101,NA
+"Matthias Ginter","DF","Germany",28,0,0,0,0,3,NA
+"Matthijs de Ligt","DF","Netherlands",23,0,0,1,1,41,NA
+"Matty Cash","DF","Poland",25,0,0,2,4,123,24.2
+"Mattéo Guendouzi","FW","France",23,0,0,0,0,27,NA
+"Matías Vecino","MF","Uruguay",31,0,0,0,1,76,10.1
+"Matías Viña","DF","Uruguay",25,0,0,0,0,11,NA
+"Maxi Gómez","FW","Uruguay",26,0,0,0,1,5,26.1
+"Maya Yoshida","DF","Japan",34,0.23,0,1,3,198,NA
+"Mehdi Taremi","FW","IR Iran",30,1,0,0,11,58,16
+"Mehdi Torabi","MF","IR Iran",28,0,0,0,5,30,19.6
+"Memphis","FW","Netherlands",28,0.3,0,1,5,93,15
+"Meshaal Barsham","GK","Qatar",24,0,0,0,1,45,NA
+"Michael Estrada","FW","Ecuador",26,0,0,0,4,28,13
+"Micha? Skóra?","MF","Poland",22,0,0,0,1,8,22.2
+"Michel Aebischer","MF","Switzerland",25,0,0,0,0,2,NA
+"Michy Batshuayi","FW","Belgium",29,0.6,0,0,2,16,15.4
+"Miki Yamane","DF","Japan",28,0,0,1,1,24,NA
+"Mikkel Damsgaard","MF","Denmark",22,0,0,0,3,55,NA
+"Milad Mohammadi","DF","IR Iran",29,0,0,0,0,44,NA
+"Milan Borjan","GK","Canada",35,0,0,0,1,76,NA
+"Miloš Degenek","DF","Australia",28,0,0,2,0,67,NA
+"Miloš Veljkovi?","DF","Serbia",27,0,0,0,1,98,NA
+"Mislav Orši?","FW","Croatia",29,1.67,0,0,7,40,22.5
+"Mitchell Duke","FW","Australia",31,0.33,0,1,5,36,17.6
+"Mohamed Ali Ben Romdhane","MF","Tunisia",23,0,0,0,0,14,NA
+"Mohamed Dräger","DF","Tunisia",26,0,0,0,6,36,25.8
+"Mohamed Kanno","MF","Saudi Arabia",28,0,0,0,5,119,20.3
+"Mohammed Al-Breik","DF","Saudi Arabia",30,0,0,0,1,39,20.4
+"Mohammed Al-Owais","GK","Saudi Arabia",31,0,0,1,1,57,NA
+"Mohammed Muntari","FW","Qatar",28,1.43,0,0,1,17,13.7
+"Mohammed Salisu","DF","Ghana",23,0.33,0,0,4,109,9.3
+"Mohammed Waad","MF","Qatar",23,0,0,0,1,9,NA
+"Moisés Caicedo","MF","Ecuador",21,0.33,0,1,5,126,16
+"Montassar Talbi","DF","Tunisia",24,0,0,0,0,118,33.7
+"Morteza Pouraliganji","DF","IR Iran",30,0,0,1,5,92,16.8
+"Moumi Ngamaleu","FW","Cameroon",28,0,0,0,2,21,NA
+"Munir","GK","Morocco",33,0,0,0,0,19,NA
+"Musab Kheder","DF","Qatar",29,0,0,0,0,3,NA
+"Na Sang-ho","FW","Korea Republic",26,0,0,0,4,24,10.6
+"Nader Ghandri","DF","Tunisia",27,0,0,0,0,27,NA
+"Nahuel Molina","DF","Argentina",24,0.32,0,0,10,291,16.2
+"Nampalys Mendy","MF","Senegal",30,0,0,1,6,141,22.6
+"Nasser Al-Dawsari","FW","Saudi Arabia",23,0,0,0,1,11,NA
+"Nathan Aké","DF","Netherlands",27,0,0,1,1,315,NA
+"Nathaniel Atkinson","DF","Australia",23,0,0,0,0,27,NA
+"Nawaf Al Abed","MF","Saudi Arabia",32,0,0,1,3,33,21.1
+"Nayef Aguerd","DF","Morocco",26,0,0,0,3,137,8
+"Naïm Sliti","MF","Tunisia",30,0,0,0,5,29,10.3
+"Neco Williams","DF","Wales",21,0,0,0,3,69,26.5
+"Nemanja Gudelj","MF","Serbia",31,0,0,2,0,44,NA
+"Nemanja Maksimovi?","MF","Serbia",27,0,0,0,4,50,NA
+"Nemanja Radonji?","DF","Serbia",26,0,0,0,1,15,22.3
+"Neymar","MF","Brazil",30,0.65,0,0,15,121,19.2
+"Niclas Füllkrug","FW","Germany",29,3.91,0,0,4,15,10
+"Nico Elvedi","DF","Switzerland",26,0,0,1,1,131,9.3
+"Nico Schlotterbeck","DF","Germany",23,0,0,0,3,110,NA
+"Nico Williams","FW","Spain",20,0,0,0,1,50,14.3
+"Nicola Zalewski","MF","Poland",20,0,0,0,0,15,NA
+"Nicolas Jackson","FW","Senegal",21,0,0,0,2,9,NA
+"Nicolas Nkoulou","DF","Cameroon",32,0.5,0,1,2,79,12.2
+"Nicolás De La Cruz","MF","Uruguay",25,0,0,0,2,20,32.4
+"Nicolás Otamendi","DF","Argentina",34,0.13,0,2,4,532,12.3
+"Nicolás Tagliafico","DF","Argentina",30,0,0,0,4,145,11.3
+"Niklas Süle","DF","Germany",27,0,0,0,4,231,5.4
+"Nikola Milenkovi?","DF","Serbia",25,0,0,2,2,141,14.7
+"Nikola Vlaši?","FW","Croatia",25,0,0,0,4,45,17.2
+"Noa Lang","MF","Netherlands",23,0,0,1,0,1,NA
+"Noah Okafor","FW","Switzerland",22,0,0,0,1,17,17.5
+"Nouhou Tolo","DF","Cameroon",25,0,0,1,1,83,NA
+"Noussair Mazraoui","DF","Morocco",25,0,0,0,2,98,24.4
+"Nuno Mendes","DF","Portugal",20,0,0,0,5,29,NA
+"Néstor Araujo","DF","Mexico",31,0,0,1,0,44,NA
+"Olivier Giroud","FW","France",36,0.86,0,1,5,48,11
+"Olivier Ntcham","MF","Cameroon",26,0,0,0,3,11,30
+"Orbelín Pineda","MF","Mexico",26,0,0,0,1,18,15.1
+"Osman Bukari","MF","Ghana",24,1.53,0,0,1,14,17.6
+"Otávio","MF","Portugal",27,0,0,0,7,98,23.2
+"Ousmane Dembélé","FW","France",25,0.42,0,1,17,144,20.2
+"Pablo Sarabia","FW","Spain",30,0,0,0,2,2,4.7
+"Paik Seung-ho","MF","Korea Republic",25,3.46,0,0,1,20,30.4
+"Pape Abou Cissé","DF","Senegal",27,0,0,0,1,28,NA
+"Pape Gueye","MF","Senegal",23,0,0,0,3,45,24.8
+"Pape Matar Sarr","MF","Senegal",20,0,0,0,2,36,30.8
+"Papu Gómez","MF","Argentina",34,0,0,0,1,53,26.3
+"Pathé Ciss","MF","Senegal",28,0,0,1,1,46,12.8
+"Pau Torres","DF","Spain",25,0,0,0,2,174,NA
+"Paulo Dybala","FW","Argentina",29,0,0,0,1,8,NA
+"Pedri","MF","Spain",20,0,0,0,14,393,NA
+"Pedro","FW","Brazil",25,0,0,0,0,10,12.9
+"Pepe","DF","Portugal",39,0.25,0,0,3,243,7.3
+"Pervis Estupiñán","DF","Ecuador",24,0,0,0,12,148,14.4
+"Phil Foden","FW","England",22,1.05,0,0,10,90,13.8
+"Piero Hincapié","DF","Ecuador",20,0,0,0,2,168,NA
+"Pierre Højbjerg","MF","Denmark",27,0,0,0,2,200,30.7
+"Pierre Kunde","MF","Cameroon",27,0,0,1,3,38,22.1
+"Piotr Zieli?ski","MF","Poland",28,0.27,0,0,12,124,11.3
+"Przemys?aw Frankowski","MF","Poland",27,0,0,1,5,49,15.6
+"Rafael Leão","FW","Portugal",23,2.05,0,0,5,32,21.2
+"Raheem Sterling","FW","England",28,1.21,0,0,4,45,9.3
+"Ramin Rezaeian","DF","IR Iran",32,0.5,0,1,8,73,18.3
+"Randal Kolo Muani","FW","France",24,0.49,0,0,1,25,13.4
+"Raphaël Guerreiro","DF","Portugal",28,0.97,0,0,11,156,17.7
+"Raphaël Varane","DF","France",29,0,0,0,2,256,7.2
+"Raphinha","FW","Brazil",26,0.29,0,0,19,111,19.1
+"Rasmus Nissen","DF","Denmark",25,0,0,1,5,137,NA
+"Raúl Jiménez","FW","Mexico",31,0,0,0,0,20,NA
+"Remo Freuler","MF","Switzerland",30,0.28,0,0,7,127,10.3
+"Renato Steffen","FW","Switzerland",31,0,0,0,0,13,NA
+"Ricardo Horta","FW","Portugal",28,0.76,0,0,3,31,13.5
+"Ricardo Rodríguez","DF","Switzerland",30,0,0,0,4,164,NA
+"Richarlison","FW","Brazil",25,0.84,0,0,7,40,12.1
+"Richie Laryea","DF","Canada",27,0,0,0,5,35,17.8
+"Riley McGree","FW","Australia",24,0.34,0,0,5,57,26.2
+"Ritsu Doan","FW","Japan",24,0.83,0,0,5,36,20.1
+"Riyadh Sharahili","MF","Saudi Arabia",29,0,0,0,1,14,NA
+"Roan Wilson","MF","Costa Rica",20,0,0,0,0,4,NA
+"Robert Lewandowski","FW","Poland",34,0.75,0,0,14,61,18.1
+"Robert Skov","DF","Denmark",26,0,0,1,0,17,NA
+"Roberto Alvarado","FW","Mexico",24,0,0,1,0,5,NA
+"Rodri","DF","Spain",26,0,0,0,9,642,36.2
+"Rodrigo Bentancur","MF","Uruguay",25,0,0,1,8,136,15.8
+"Rodrigo De Paul","MF","Argentina",28,0,0,0,19,470,20.5
+"Rodrygo","MF","Brazil",21,0.5,0,0,16,91,18.7
+"Rogelio Funes Mori","FW","Mexico",31,0,0,0,1,0,22.6
+"Romain Saïss","DF","Morocco",32,0.19,0,1,1,159,0.9
+"Romario Ibarra","MF","Ecuador",28,0,0,0,1,10,23.2
+"Romelu Lukaku","FW","Belgium",29,0,0,0,1,6,6.6
+"Roozbeh Cheshmi","DF","IR Iran",29,1.55,0,0,0,7,28.1
+"Ruben Vargas","FW","Switzerland",24,0.32,0,1,7,80,17
+"Rubin Colwill","MF","Wales",20,0,0,0,2,2,25.1
+"Ró-Ró","DF","Qatar",32,0,0,0,1,78,23
+"Rónald Matarrita","DF","Costa Rica",28,0,0,0,0,18,NA
+"Rúben Dias","DF","Portugal",25,0,0,1,2,248,12
+"Rúben Neves","MF","Portugal",25,0,0,1,6,235,27
+"Saad Al Sheeb","GK","Qatar",32,0,0,1,0,18,NA
+"Sadegh Moharrami","DF","IR Iran",26,0,0,0,1,18,NA
+"Saeid Ezatolahi","MF","IR Iran",26,0,0,0,4,66,29.4
+"Saleh Al-Shehri","FW","Saudi Arabia",29,0.4,0,1,2,29,21
+"Salem Al-Dawsari","MF","Saudi Arabia",31,0.67,0,1,15,86,21.6
+"Salis Abdul Samed","MF","Ghana",22,0,0,0,4,129,26.9
+"Salman Al-Faraj","MF","Saudi Arabia",33,0,0,0,0,12,NA
+"Sam Adekugbe","DF","Canada",27,0,0,1,2,63,NA
+"Saman Ghoddos","MF","IR Iran",29,0,0,0,1,15,6.4
+"Sami Al-Najei","MF","Saudi Arabia",25,0,0,0,0,13,NA
+"Samuel Oum Gouet","MF","Cameroon",25,0,0,0,1,52,NA
+"Sardar Azmoun","FW","IR Iran",27,0,0,0,3,18,13.9
+"Saud Abdulhamid","DF","Saudi Arabia",23,0,0,1,8,88,34.6
+"Saša Luki?","MF","Serbia",26,0,0,2,2,143,16.1
+"Sebastian Szyma?ski","MF","Poland",23,0,0,0,1,26,NA
+"Sebastián Coates","DF","Uruguay",32,0,0,1,1,76,11.5
+"Selim Amallah","MF","Morocco",26,0,0,1,8,65,13.3
+"Serge Gnabry","FW","Germany",27,0.68,0,0,12,86,15.6
+"Sergej Milinkovi?-Savi?","MF","Serbia",27,0.39,0,1,4,87,23.9
+"Sergio Busquets","MF","Spain",34,0,0,1,11,261,20.9
+"Sergio Rochet","GK","Uruguay",29,0,0,0,0,54,NA
+"Sergiño Dest","DF","United States",22,0.3,0,1,7,172,19.8
+"Shaquell Moore","DF","United States",26,0,0,0,0,14,NA
+"Shogo Taniguchi","DF","Japan",31,0,0,1,0,72,8
+"Shūichi Gonda","GK","Japan",33,0,0,0,0,68,NA
+"Silvan Widmer","DF","Switzerland",29,0.34,0,1,5,127,9.7
+"Simon Kjær","DF","Denmark",33,0,0,0,0,50,NA
+"Sofiane Boufal","FW","Morocco",29,0,0,1,15,99,21
+"Sofyan Amrabat","MF","Morocco",26,0,0,1,6,269,28.8
+"Son Heung-min","FW","Korea Republic",30,0.25,0,0,16,77,18.8
+"Son Jun-ho","MF","Korea Republic",30,0,0,0,3,55,NA
+"Sorba Thomas","MF","Wales",23,0,0,0,0,3,NA
+"Sr?an Babi?","DF","Serbia",26,0,0,0,0,10,NA
+"Stefan Mitrovi?","DF","Serbia",32,0,0,0,0,18,NA
+"Stephen Eustáquio","MF","Canada",25,0,0,0,6,83,19.8
+"Steve Mandanda","GK","France",37,0,0,0,0,19,NA
+"Steven Berghuis","MF","Netherlands",30,0.45,0,1,3,97,22.5
+"Steven Bergwijn","FW","Netherlands",25,0,0,1,2,64,15.5
+"Steven Vitória","DF","Canada",35,0,0,1,0,160,NA
+"Strahinja Pavlovi?","DF","Serbia",21,0.38,0,2,2,121,10
+"Sultan Al-Ghanam","DF","Saudi Arabia",28,0,0,0,1,34,7.6
+"Taha Yassine Khenissi","FW","Tunisia",30,0,0,1,1,2,23.3
+"Tajon Buchanan","MF","Canada",23,0.35,0,1,9,61,15
+"Takefusa Kubo","FW","Japan",21,0,0,0,1,6,NA
+"Takehiro Tomiyasu","DF","Japan",24,0,0,0,5,73,NA
+"Takuma Asano","FW","Japan",28,0.55,0,0,3,21,13.2
+"Takumi Minamino","FW","Japan",27,0,0,0,1,14,15.1
+"Tarek Salman","DF","Qatar",25,0,0,0,0,7,NA
+"Tariq Lamptey","DF","Ghana",22,0,0,1,0,21,15.8
+"Teun Koopmeiners","MF","Netherlands",24,0.41,0,1,4,90,27.6
+"Theo Hernández","DF","France",25,0.53,0,1,17,289,16.7
+"Thiago Almada","MF","Argentina",21,0,0,0,1,13,NA
+"Thiago Silva","DF","Brazil",38,0.23,0,0,10,322,8
+"Thibaut Courtois","GK","Belgium",30,0,0,0,1,108,NA
+"Thilo Kehrer","DF","Germany",26,0,0,1,1,22,NA
+"Thomas Delaney","MF","Denmark",31,0,0,0,0,24,NA
+"Thomas Meunier","DF","Belgium",31,0,0,1,7,110,19.6
+"Thomas Müller","FW","Germany",33,0,0,0,10,56,11.3
+"Thomas Partey","MF","Ghana",29,0,0,0,6,146,16.8
+"Thorgan Hazard","FW","Belgium",29,0,0,0,9,40,NA
+"Tim Ream","DF","United States",35,0,0,1,2,245,3.7
+"Timothy Castagne","DF","Belgium",27,0,0,0,1,176,NA
+"Timothy Weah","FW","United States",22,0.28,0,0,7,90,17.5
+"Toby Alderweireld","DF","Belgium",33,0.33,0,0,3,248,NA
+"Trent Alexander-Arnold","DF","England",24,0,0,0,0,21,NA
+"Tyler Adams","MF","United States",23,0,0,1,3,241,30.4
+"Unai Simón","GK","Spain",25,0,0,0,0,150,NA
+"Uriel Antuna","FW","Mexico",25,0,0,0,1,12,16.2
+"Vanja Milinkovi?-Savi?","GK","Serbia",25,0,0,0,0,90,NA
+"Victor Nelsson","DF","Denmark",24,0,0,0,1,69,NA
+"Vincent Aboubakar","FW","Cameroon",30,1.9,1,2,7,20,17.8
+"Vincent Janssen","FW","Netherlands",28,0,0,0,3,16,21
+"Vinicius Júnior","FW","Brazil",22,0.9,0,0,16,68,15
+"Virgil van Dijk","DF","Netherlands",31,0,0,0,4,311,10.6
+"Vitinha","MF","Portugal",22,0,0,1,4,100,28.2
+"Wahbi Khazri","FW","Tunisia",31,1.08,0,0,0,13,19.1
+"Wajdi Kechrida","DF","Tunisia",27,0,0,1,4,44,NA
+"Walid Cheddira","FW","Morocco",24,0,1,2,0,4,9.8
+"Walker Zimmerman","DF","United States",29,0,0,0,3,217,15
+"Wataru Endo","MF","Japan",29,0,0,1,10,155,25.5
+"Wayne Hennessey","GK","Wales",35,0,1,0,0,50,NA
+"Weston McKennie","MF","United States",24,0,0,1,12,117,15.5
+"William Carvalho","MF","Portugal",30,0,0,0,1,156,15.8
+"William Saliba","DF","France",21,0,0,0,1,37,NA
+"Wojciech Szcz?sny","GK","Poland",32,0,0,0,0,84,NA
+"Wout Weghorst","FW","Netherlands",30,2.81,0,1,2,9,12
+"Wéverton","GK","Brazil",35,0,0,0,0,3,NA
+"Xavi Simons","FW","Netherlands",19,0,0,0,0,6,NA
+"Xherdan Shaqiri","FW","Switzerland",31,0.79,0,0,6,67,21.9
+"Yahya Attiat Allah","DF","Morocco",27,0.28,0,0,7,98,13
+"Yahya Jabrane","MF","Morocco",31,0,0,0,NA,NA,NA
+"Yann Sommer","GK","Switzerland",34,0,0,0,1,108,NA
+"Yannick Carrasco","FW","Belgium",29,0,0,1,4,39,13.9
+"Yasser Al-Shahrani","DF","Saudi Arabia",30,0,0,0,0,13,NA
+"Yassine Bounou","GK","Morocco",31,0,0,0,0,154,NA
+"Yassine Meriah","DF","Tunisia",29,0,0,0,3,139,9.3
+"Yeltsin Tejeda","MF","Costa Rica",30,0.67,0,0,3,78,15.1
+"Youri Tielemans","MF","Belgium",25,0,0,0,2,53,NA
+"Youssef En-Nesyri","FW","Morocco",25,0.33,0,0,3,50,9.1
+"Youssef Msakni","MF","Tunisia",32,0,0,0,7,50,16
+"Youssouf Fofana","MF","France",23,0,0,0,3,96,21.1
+"Youssouf Sabaly","DF","Senegal",29,0,0,0,15,189,30.9
+"Youssoufa Moukoko","FW","Germany",18,0,0,0,0,1,NA
+"Youstin Salas","DF","Costa Rica",26,0,0,0,1,15,NA
+"Yuki Soma","FW","Japan",25,0,0,0,0,11,22.7
+"Yunus Musah","MF","United States",20,0,0,0,10,151,22.9
+"Yuto Nagatomo","MF","Japan",36,0,0,0,2,78,NA
+"Zakaria Aboukhlal","FW","Morocco",22,1.14,0,0,1,7,14.9
+"?lvaro Morata","FW","Spain",30,1.95,0,0,4,28,10.3
+"?lvaro Zamora","MF","Costa Rica",20,0,0,0,0,5,NA
+"?ngel Correa","MF","Argentina",27,0,0,0,0,3,NA
+"?ngel Di María","MF","Argentina",34,0.62,0,0,21,130,20.7
+"?ngelo Preciado","DF","Ecuador",24,0.34,0,0,5,94,26.1
+"?der Militão","DF","Brazil",24,0,0,1,6,251,20.2
+"?scar Duarte","DF","Costa Rica",33,0,0,1,1,68,NA
+"İlkay Gündo?an","MF","Germany",32,0.48,0,0,6,150,25.9
